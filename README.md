@@ -1,4 +1,5 @@
-# linera1
-test 1 
-test 2
-test 3
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, GitHub!");
+    }
+}
